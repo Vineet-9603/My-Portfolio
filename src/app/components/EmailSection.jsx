@@ -56,7 +56,7 @@ const EmailSection = () => {
           try my best to get back to you!
         </p> */}
         <p className="text-[#ADB7BE] mb-4 max-w-md">
-          I'm currently looking for internship opportunities in software development.
+          I&apos;m currently looking for internship opportunities in software development.
           Whether you have an opportunity or just want to connect, I'd love to hear from you!
         </p>
         <div className="socials flex flex-row gap-2">
