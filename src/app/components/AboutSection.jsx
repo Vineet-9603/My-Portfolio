@@ -62,10 +62,10 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I&apos;m a pre-final year ECE student at NIT Delhi with a passion for software development. 
-  I have strong problem-solving skills and expertise in multiple programming languages 
-  including C, C++, Python, and web technologies. I'm actively seeking SDE internship 
-  opportunities to apply my technical knowledge and grow as a professional.
+            I&apos;m a pre-final year ECE student at NIT Delhi with a passion for software development.
+            I have strong problem-solving skills and expertise in multiple programming languages
+            including C, C++, Python, and web technologies. I&apos;m actively seeking SDE internship
+            opportunities to apply my technical knowledge and grow as a professional.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
