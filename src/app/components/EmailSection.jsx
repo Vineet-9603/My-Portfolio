@@ -47,7 +47,7 @@ const EmailSection = () => {
       <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-primary-900 to-transparent rounded-full h-80 w-80 z-0 blur-lg absolute top-3/4 -left-4 transform -translate-x-1/2 -translate-1/2"></div>
       <div className="z-10">
         <h5 className="text-xl font-bold text-white my-2">
-          Let&apos;s Connect
+          Let's Connect
         </h5>
         {/* <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
@@ -56,16 +56,16 @@ const EmailSection = () => {
           try my best to get back to you!
         </p> */}
         <p className="text-[#ADB7BE] mb-4 max-w-md">
-          I&apos;m currently looking for internship opportunities in software development.
-          Whether you have an opportunity or just want to connect, I&apos;d love to hear from you!
+          I'm currently looking for internship opportunities in software development.
+          Whether you have an opportunity or just want to connect, I'd love to hear from you!
         </p>
         <div className="socials flex flex-row gap-2">
-          <Link href="https://github.com/yourusername">
+          <Link href="https://github.com/Vineet-9603" target="_blank">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
-          <Link href="https://linkedin.com/in/yourprofile">
+          {/* <Link href="https://linkedin.com/in/yourprofile">
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
-          </Link>
+          </Link> */}
         </div>
       </div>
       <div>

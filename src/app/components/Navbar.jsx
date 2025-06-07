@@ -34,7 +34,7 @@ const Navbar = () => {
         </Link> */}
 
         <Link href={"/"} className="text-2xl md:text-5xl text-white font-semibold">
-          My Portfolio
+          Vineet
         </Link>
         <div className="mobile-menu block md:hidden">
           {!navbarOpen ? (
